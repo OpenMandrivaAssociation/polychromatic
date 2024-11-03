@@ -28,6 +28,9 @@ Requires: qt6-qtwebengine
 Requires: %{_lib}Qt6WebEngineCore
 Requires: typelib(AppIndicator3)
 
+# Wrong but for now lets add it as workaround
+Requires: python-qt6-devel
+
 %description
 RGB lighting management front-end application for OpenRazer with a
 graphical, command line and tray applet interface.
