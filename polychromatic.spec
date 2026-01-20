@@ -1,6 +1,6 @@
 Name: polychromatic
-Version: 0.9.5
-Release: 3
+Version: 0.9.6
+Release: 1
 Summary: RGB lighting management front-end application for OpenRazer
 Group:  System/Configuration/Other
 License: GPL-3.0
